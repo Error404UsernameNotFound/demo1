@@ -7,6 +7,10 @@ public class Demo {
 		System.out.println("linea 1");
 		System.out.println("cambio 3 en cambio3 DEFINITIVO");
 		System.out.println("linea 3");
+		
+		System.out.println("linea 1");
+		System.out.println("cambio 3 en cambio3 DEFINITIVO");
+		System.out.println("linea 3");
 		//Cambio desde la nueva rama (cambio2)
 	} //Tercer cambio de rebase
 }
